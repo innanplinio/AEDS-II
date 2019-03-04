@@ -1,0 +1,9 @@
+1) O tempo de execução aumenta a medida que o arquivo aumenta.
+tempos de execução:
+1mb - 28 milisegundos
+10mb - 118 milisegundos
+100mb - 1108 milisegundos
+200mb - 2273 milisegundos
+
+
+3)Sim, a frequencia de caracteres dos arquivos estruturados é maior para determinados carateres. Os dois arquivos tem caracteres discrepantes.
